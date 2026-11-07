@@ -1,0 +1,28 @@
+# Folin Agrikultura Timor-Leste - Python 3.10+
+# Install:  pip install -r requirements.txt
+
+# Data collection
+requests>=2.31
+
+# Data processing
+pandas>=2.1
+numpy>=1.26
+
+# Data mining
+scikit-learn>=1.4        # Linear Regression, Random Forest, metrics
+statsmodels>=0.14        # ARIMA
+joblib>=1.3              # save models
+
+# Visualization & dashboard
+plotly>=5.20
+streamlit>=1.50          # theme.sidebar + width="stretch"
+
+# EDA notebook
+jupyter>=1.0
+kaleido>=0.2             # optional: PNG export of Plotly charts
+
+# Optional - Google Sheet with a service account (GSHEET_ID option)
+# gspread>=6.0
+
+# Optional - Prophet (alternative to ARIMA; heavy install, not used by default)
+# prophet>=1.1
