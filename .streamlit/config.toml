@@ -1,0 +1,18 @@
+   # Streamlit theme - matches dashboard/style.py (light theme)
+   [theme]
+   base = "light"
+   primaryColor = "#0F3D30"
+   backgroundColor = "#F2F5F1"
+   secondaryBackgroundColor = "#E3EEE8"
+   textColor = "#16261F"
+   font = "sans serif"
+
+   # Dark paddy-green sidebar (Streamlit >= 1.44)
+   [theme.sidebar]
+   backgroundColor = "#0F3D30"
+   secondaryBackgroundColor = "#1B5442"
+   textColor = "#E8F0EB"
+   primaryColor = "#E2A21B"
+
+   [server]
+   headless = true
