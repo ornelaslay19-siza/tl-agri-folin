@@ -1,10 +1,10 @@
 # Data Dictionary - Folin Fos Timor-Leste
 
-Generated automatically by `src/preprocessing.py` on 2026-10-15 22:04 (Dili time).
+Generated automatically by `src/preprocessing.py` on 2026-11-07 15:54 (Dili time).
 
 ## 1. Raw file `data/raw/agri_prices_raw.csv`
 
-1574 rows. One row = one price for one product, in one district (munisípiu), on one date, from one source.
+1587 rows. One row = one price for one product, in one district (munisípiu), on one date, from one source.
 WFP prices of several markets in the same district are averaged (`n_merkadu`).
 
 | Kolúna / Column | Tipu / Type | Deskrisaun / Description | Unidade / Unit | Missing |
@@ -20,7 +20,7 @@ WFP prices of several markets in the same district are averaged (`n_merkadu`).
 
 ## 2. Clean file `data/processed/agri_prices_clean.csv`
 
-1574 rows.
+1587 rows.
 
 | Kolúna / Column | Tipu / Type | Deskrisaun / Description | Unidade / Unit | Missing |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ The models drop those rows.
 
 | Step | Rows |
 |---|---|
-| Raw rows | 1574 |
+| Raw rows | 1587 |
 | Exact duplicates removed | 0 |
 | Same date/product/market duplicates removed | 0 |
 | Invalid prices (<= 0 or > 50 USD/kg) set to missing | 0 |
@@ -62,5 +62,5 @@ The models drop those rows.
 
 | Fonte | Produto | Rows | First | Last |
 |---|---|---|---|---|
-| WFP/HDX | Fos Importadu | 835 | 2011-10-15 | 2026-07-15 |
-| WFP/HDX | Fos Lokal | 739 | 2008-04-15 | 2026-07-15 |
+| WFP/HDX | Fos Importadu | 843 | 2011-10-15 | 2026-09-15 |
+| WFP/HDX | Fos Lokal | 744 | 2008-04-15 | 2026-09-15 |

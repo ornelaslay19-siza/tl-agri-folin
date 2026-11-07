@@ -101,6 +101,8 @@ data,produto,folin_kg_usd,lokalizasaun,timestamp,source_url,fonte,n_merkadu
 2026-04-15,Fos Importadu,0.6,Atauro,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-05-15,Fos Importadu,0.61,Atauro,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-07-15,Fos Importadu,0.6,Atauro,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
+2026-08-15,Fos Importadu,0.59,Atauro,2026-11-07T06:54:16Z,https://data.humdata.org/dataset/59420553-73fb-4d44-82f1-96bf97ad8c6e/resource/f9d8d15e-0762-4d92-8721-3ebf9b000016/download/wfp_food_prices_tls.csv,WFP/HDX,1
+2026-09-15,Fos Importadu,0.6,Atauro,2026-11-07T06:54:16Z,https://data.humdata.org/dataset/59420553-73fb-4d44-82f1-96bf97ad8c6e/resource/f9d8d15e-0762-4d92-8721-3ebf9b000016/download/wfp_food_prices_tls.csv,WFP/HDX,1
 2011-10-15,Fos Importadu,0.8167,Baucau,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,3
 2011-11-15,Fos Importadu,0.73,Baucau,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,3
 2011-12-15,Fos Importadu,0.7,Baucau,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,3
@@ -258,6 +260,8 @@ data,produto,folin_kg_usd,lokalizasaun,timestamp,source_url,fonte,n_merkadu
 2026-05-15,Fos Importadu,0.82,Bobonaro,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-06-15,Fos Importadu,0.64,Bobonaro,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-07-15,Fos Importadu,0.56,Bobonaro,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
+2026-08-15,Fos Importadu,0.56,Bobonaro,2026-11-07T06:54:16Z,https://data.humdata.org/dataset/59420553-73fb-4d44-82f1-96bf97ad8c6e/resource/f9d8d15e-0762-4d92-8721-3ebf9b000016/download/wfp_food_prices_tls.csv,WFP/HDX,1
+2026-09-15,Fos Importadu,0.6,Bobonaro,2026-11-07T06:54:16Z,https://data.humdata.org/dataset/59420553-73fb-4d44-82f1-96bf97ad8c6e/resource/f9d8d15e-0762-4d92-8721-3ebf9b000016/download/wfp_food_prices_tls.csv,WFP/HDX,1
 2020-03-15,Fos Importadu,0.5,Covalima,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2020-04-15,Fos Importadu,0.5,Covalima,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2020-05-15,Fos Importadu,0.51,Covalima,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
@@ -321,6 +325,8 @@ data,produto,folin_kg_usd,lokalizasaun,timestamp,source_url,fonte,n_merkadu
 2026-04-15,Fos Importadu,0.54,Covalima,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-05-15,Fos Importadu,0.61,Covalima,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-07-15,Fos Importadu,0.54,Covalima,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
+2026-08-15,Fos Importadu,0.62,Covalima,2026-11-07T06:54:16Z,https://data.humdata.org/dataset/59420553-73fb-4d44-82f1-96bf97ad8c6e/resource/f9d8d15e-0762-4d92-8721-3ebf9b000016/download/wfp_food_prices_tls.csv,WFP/HDX,1
+2026-09-15,Fos Importadu,0.67,Covalima,2026-11-07T06:54:16Z,https://data.humdata.org/dataset/59420553-73fb-4d44-82f1-96bf97ad8c6e/resource/f9d8d15e-0762-4d92-8721-3ebf9b000016/download/wfp_food_prices_tls.csv,WFP/HDX,1
 2011-10-15,Fos Importadu,0.8733,Dili,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,3
 2011-11-15,Fos Importadu,0.85,Dili,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,3
 2011-12-15,Fos Importadu,0.8467,Dili,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,3
@@ -451,6 +457,7 @@ data,produto,folin_kg_usd,lokalizasaun,timestamp,source_url,fonte,n_merkadu
 2026-05-15,Fos Importadu,0.54,Dili,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-06-15,Fos Importadu,0.53,Dili,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-07-15,Fos Importadu,0.53,Dili,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
+2026-08-15,Fos Importadu,0.47,Dili,2026-11-07T06:54:16Z,https://data.humdata.org/dataset/59420553-73fb-4d44-82f1-96bf97ad8c6e/resource/f9d8d15e-0762-4d92-8721-3ebf9b000016/download/wfp_food_prices_tls.csv,WFP/HDX,1
 2020-05-15,Fos Importadu,0.5,Ermera,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2020-06-15,Fos Importadu,0.51,Ermera,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2020-07-15,Fos Importadu,0.51,Ermera,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
@@ -502,6 +509,7 @@ data,produto,folin_kg_usd,lokalizasaun,timestamp,source_url,fonte,n_merkadu
 2026-03-15,Fos Importadu,0.49,Ermera,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-05-15,Fos Importadu,0.5,Ermera,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-07-15,Fos Importadu,0.5,Ermera,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
+2026-08-15,Fos Importadu,0.48,Ermera,2026-11-07T06:54:16Z,https://data.humdata.org/dataset/59420553-73fb-4d44-82f1-96bf97ad8c6e/resource/f9d8d15e-0762-4d92-8721-3ebf9b000016/download/wfp_food_prices_tls.csv,WFP/HDX,1
 2020-07-15,Fos Importadu,0.53,Lautem,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2020-08-15,Fos Importadu,0.54,Lautem,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2020-09-15,Fos Importadu,0.54,Lautem,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
@@ -894,6 +902,8 @@ data,produto,folin_kg_usd,lokalizasaun,timestamp,source_url,fonte,n_merkadu
 2026-04-15,Fos Lokal,2.77,Atauro,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-05-15,Fos Lokal,2.81,Atauro,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-07-15,Fos Lokal,2.77,Atauro,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
+2026-08-15,Fos Lokal,2.66,Atauro,2026-11-07T06:54:16Z,https://data.humdata.org/dataset/59420553-73fb-4d44-82f1-96bf97ad8c6e/resource/f9d8d15e-0762-4d92-8721-3ebf9b000016/download/wfp_food_prices_tls.csv,WFP/HDX,1
+2026-09-15,Fos Lokal,2.77,Atauro,2026-11-07T06:54:16Z,https://data.humdata.org/dataset/59420553-73fb-4d44-82f1-96bf97ad8c6e/resource/f9d8d15e-0762-4d92-8721-3ebf9b000016/download/wfp_food_prices_tls.csv,WFP/HDX,1
 2011-10-15,Fos Lokal,1.7567,Baucau,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,3
 2011-11-15,Fos Lokal,1.645,Baucau,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,2
 2011-12-15,Fos Lokal,2.05,Baucau,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,3
@@ -1053,6 +1063,8 @@ data,produto,folin_kg_usd,lokalizasaun,timestamp,source_url,fonte,n_merkadu
 2026-05-15,Fos Lokal,1.54,Bobonaro,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-06-15,Fos Lokal,1.53,Bobonaro,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-07-15,Fos Lokal,1.51,Bobonaro,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
+2026-08-15,Fos Lokal,1.51,Bobonaro,2026-11-07T06:54:16Z,https://data.humdata.org/dataset/59420553-73fb-4d44-82f1-96bf97ad8c6e/resource/f9d8d15e-0762-4d92-8721-3ebf9b000016/download/wfp_food_prices_tls.csv,WFP/HDX,1
+2026-09-15,Fos Lokal,1.52,Bobonaro,2026-11-07T06:54:16Z,https://data.humdata.org/dataset/59420553-73fb-4d44-82f1-96bf97ad8c6e/resource/f9d8d15e-0762-4d92-8721-3ebf9b000016/download/wfp_food_prices_tls.csv,WFP/HDX,1
 2020-06-15,Fos Lokal,0.96,Covalima,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2020-07-15,Fos Lokal,0.86,Covalima,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2020-08-15,Fos Lokal,0.99,Covalima,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
@@ -1239,6 +1251,7 @@ data,produto,folin_kg_usd,lokalizasaun,timestamp,source_url,fonte,n_merkadu
 2026-05-15,Fos Lokal,1.65,Dili,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-06-15,Fos Lokal,1.77,Dili,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2026-07-15,Fos Lokal,1.77,Dili,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
+2026-08-15,Fos Lokal,1.88,Dili,2026-11-07T06:54:16Z,https://data.humdata.org/dataset/59420553-73fb-4d44-82f1-96bf97ad8c6e/resource/f9d8d15e-0762-4d92-8721-3ebf9b000016/download/wfp_food_prices_tls.csv,WFP/HDX,1
 2020-06-15,Fos Lokal,1.67,Ermera,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2023-01-15,Fos Lokal,1.32,Ermera,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1
 2024-02-15,Fos Lokal,1.18,Ermera,2026-09-28T19:04:39Z,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,WFP/HDX,1

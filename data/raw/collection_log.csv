@@ -1,3 +1,5 @@
 run_utc,fonte,status,rows,source_url,message,new_rows_total
 2026-10-15T13:04:12Z,WFP/HDX,cache,1574,https://data.humdata.org/dataset/wfp-food-prices-for-timor-leste,last data 2026-07-15,1574
 2026-10-15T13:04:12Z,Google Sheet,skip,0,,not configured (set GSHEET_CSV_URL or GSHEET_ID),1574
+2026-11-07T06:54:16Z,WFP/HDX,ok,1583,https://data.humdata.org/dataset/59420553-73fb-4d44-82f1-96bf97ad8c6e/resource/f9d8d15e-0762-4d92-8721-3ebf9b000016/download/wfp_food_prices_tls.csv,last data 2026-09-15,13
+2026-11-07T06:54:16Z,Google Sheet,error,0,,EmptyDataError: No columns to parse from file,13
