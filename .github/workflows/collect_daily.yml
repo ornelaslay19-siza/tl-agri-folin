@@ -1,0 +1,41 @@
+   # Rekolla dadus kada loron / Daily data collection
+   # Cron is UTC. 21:00 UTC = 06:00 in Dili (UTC+9) -> polling interval 24 hours.
+   name: Collect rice prices (daily)
+
+   on:
+     schedule:
+       - cron: "0 21 * * *"
+     workflow_dispatch:          # "Run workflow" button on GitHub
+
+   permissions:
+     contents: write
+
+   jobs:
+     update:
+       runs-on: ubuntu-latest
+       steps:
+         - uses: actions/checkout@v4
+         - uses: actions/setup-python@v5
+           with:
+             python-version: "3.11"
+             cache: pip
+         - run: pip install -r requirements.txt
+
+         - name: 1. Collect rice prices (WFP, Google Sheet)
+           env:
+             GSHEET_CSV_URL: ${{ secrets.GSHEET_CSV_URL }}   # optional
+           run: python src/collect.py
+
+         - name: 2. Preprocess
+           run: python src/preprocessing.py
+
+         - name: 3. Train models + 7-step forecast
+           run: python src/model.py
+
+         - name: Commit updated data
+           run: |
+             git config user.name "data-bot"
+             git config user.email "actions@github.com"
+             git add data reports models
+             git diff --cached --quiet || git commit -m "data: daily update $(date -u +%Y-%m-%dT%H:%MZ)"
+             git push
