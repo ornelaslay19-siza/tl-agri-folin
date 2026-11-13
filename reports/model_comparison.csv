@@ -1,6 +1,6 @@
 Model,MAE,RMSE,R2,n_test,Test set
 Linear Regression,0.1523,0.2701,0.8825,30,"Dili, 1 series per rice type"
 Random Forest,0.1746,0.3051,0.8501,30,"Dili, 1 series per rice type"
-ARIMA,0.1959,0.3137,0.8415,30,"Dili, 1 series per rice type"
+ARIMA,0.196,0.3137,0.8415,30,"Dili, 1 series per rice type"
 Linear Regression,0.1169,0.2191,0.901,278,All districts (panel)
 Random Forest,0.1142,0.2189,0.9011,278,All districts (panel)
