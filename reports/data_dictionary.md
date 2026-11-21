@@ -1,6 +1,6 @@
 # Data Dictionary - Folin Fos Timor-Leste
 
-Generated automatically by `src/preprocessing.py` on 2026-11-20 11:06 (Dili time).
+Generated automatically by `src/preprocessing.py` on 2026-11-21 11:01 (Dili time).
 
 ## 1. Raw file `data/raw/agri_prices_raw.csv`
 
