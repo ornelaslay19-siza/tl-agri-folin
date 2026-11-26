@@ -1,7 +1,7 @@
 produto,Model,MAE,RMSE,R2,n_test
 Fos Importadu,Linear Regression,0.0394,0.0465,0.7788,15
 Fos Importadu,Random Forest,0.0386,0.0471,0.7734,15
-Fos Importadu,ARIMA,0.0437,0.0555,0.6859,15
+Fos Importadu,ARIMA,0.0438,0.0556,0.6845,15
 Fos Lokal,Linear Regression,0.2652,0.3791,-0.2481,15
 Fos Lokal,Random Forest,0.3105,0.4289,-0.5974,15
 Fos Lokal,ARIMA,0.3482,0.4402,-0.6822,15
